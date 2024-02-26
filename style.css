@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+body{
+margin: 1;
+padding: 0;
+box-sizing: border-box;
+background-color: #5a8396;
+}
+
+.formulario{
+padding: 1.5em;
+margin-top: 1em;
+text-align: center;
+}
+
+button{
+border-radius: 5px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img{
+display: flex;
+flex-direction: row;    
+justify-content: center;
+margin-left: 470px;
+border-radius: 10px;
+width: 400px;
+}
+
+h1{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+padding: 1em;
+}
+
+p{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+.maior img{
+margin-left: 480px;
+width: 400px;
+border-radius: 20px;
+}
+
+footer{
+text-align: center;
+padding: 1em;
+}
+
+fieldset{
+text-align: center;
+}
+
+
